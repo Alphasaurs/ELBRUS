@@ -1,12 +1,11 @@
-# BARNSTORM
-An augmented reality based app for indoor navigation.
+# ELBRUS
+
 <img src="1.png">
 
 
 
 ## Introduction
-A new way of using maps on mobile as well as web.
+A dynamic web-app system to detect fake news .
 
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
+
